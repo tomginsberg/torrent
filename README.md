@@ -2,7 +2,9 @@
 A simple cli torrent downloader built using libtorrent
 
 ## Installation
-Instructions are given for Mac
+
+*Instructions are given for MacOS*
+
 ---
 Install libtorrent
 ```shell
